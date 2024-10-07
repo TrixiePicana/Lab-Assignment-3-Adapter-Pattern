@@ -1,4 +1,4 @@
-Plugging Devices into Power Outlets
+<h2>Plugging Devices into Power Outlets</h2>
 
 You are developing an application that helps users manage and control various electronic devices by plugging them into power outlets. Each device has different plug types, voltage, and amperage requirements. To ensure compatibility and safety, you need to create adapters for different devices to allow them to be plugged into standard power outlets.
 
@@ -21,3 +21,6 @@ LaptopAdapter - An adapter for plugging a laptop into a standard power outlet. I
 RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().
 
 SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
+
+<h2>UML Diagram</h2>
+![image](https://github.com/user-attachments/assets/b5558191-cc57-468a-831a-f311b9f9e7aa)
